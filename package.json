@@ -1,0 +1,24 @@
+{
+  "name": "steam-components",
+  "version": "0.1.0",
+  "description": "React styled-components for Steam Store",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LestaD/steam-components.git"
+  },
+  "author": "Sergey Sova <i.am@lestad.net> (https://lestad.top)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LestaD/steam-components/issues"
+  },
+  "homepage": "https://github.com/LestaD/steam-components#readme",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^3.19.0",
+    "eslint-config-atomix-react": "^1.0.0"
+  }
+}
